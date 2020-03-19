@@ -22,7 +22,7 @@
     "url": "git+https://github.com/foxthefox/ioBroker.musiccast.git"
   },
   "dependencies": {
-    "yamaha-yxc-nodejs": "^0.0.12",
+    "yamaha-yxc-nodejs": "foxthefox/yamaha-yxc-nodejs",
     "dgram": "^1.0.1",
     "md5": "^2.2.1",
     "async": "^2.6.0",
